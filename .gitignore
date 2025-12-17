@@ -7,3 +7,6 @@ build
 .pytest_cache
 .vscode
 .aider*
+
+# Git update log files
+git-update-log-*.txt
